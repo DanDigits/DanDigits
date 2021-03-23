@@ -1,4 +1,6 @@
-Hi, I’m Daniel, I’m interested in Computer Science, in all regards except where intensely mathematical. Here you'll find my various projects, though admittedly I dont use github often. Hopefully that changes in the future!
+Hey, I’m Daniel!
+
+I’m interested in Computer Science, in all regards except where intensely mathematical. Here you'll find my various projects, though admittedly I dont use github often. Hopefully that changes in the future!
 
 <!---
 DanDigits/DanDigits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
